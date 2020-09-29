@@ -1,0 +1,12 @@
+{
+  "name": "brainState",
+  "displayName": "brainState",
+  "expo": {
+    "name": "brainState",
+    "slug": "brainState",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

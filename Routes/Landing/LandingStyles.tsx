@@ -8,8 +8,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  logo: {
-  }
+  logo: {},
 });
 
 export default styles;

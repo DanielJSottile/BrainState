@@ -7,7 +7,7 @@ const Load = () => {
       <Text>Open up App.tsx to start working on your app!</Text>
     </View>
   );
-}
+};
 
 const styles = StyleSheet.create({
   container: {
